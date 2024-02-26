@@ -1,4 +1,4 @@
-- 👋 I’m @WmRobt
+- 👋 I’m @WmRobt aka Robert English
 - 👀 Interested in learning from program development.
 - 🌱 Intermitently learning Python while studying for TEFL certification to teach English
 - 💞️ I’m looking to collaborate with my limited knowledge.
