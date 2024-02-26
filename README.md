@@ -1,7 +1,6 @@
 - 👋 I’m @WmRobt
 - 👀 Interested in learning from program development.
-- 🌱 Intermitently learning Python
-Studying for TEFL certification to teach English
+- 🌱 Intermitently learning Python while studying for TEFL certification to teach English
 - 💞️ I’m looking to collaborate with my limited knowledge.
 - 📫 Reach me at Telegram https://t.me/PracticeWithRobert.
 
