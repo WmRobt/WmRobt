@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @WmRobt
-- 👀 I’m interested in learning from program development.
-- 🌱 I’m currently learning Python
+- 👋 I’m @WmRobt
+- 👀 Interested in learning from program development.
+- 🌱 Intermitently learning Python
+Studying for TEFL certification to teach English
 - 💞️ I’m looking to collaborate with my limited knowledge.
-- 📫 To reach me, send to https://t.me/PracticeWithRobert.
+- 📫 Reach me at Telegram https://t.me/PracticeWithRobert.
 
 <!---
 WmRobt/WmRobt is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
